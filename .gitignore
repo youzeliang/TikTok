@@ -1,0 +1,22 @@
+# go
+bin/*
+go.sum
+vendor/
+
+# jetbrain
+.idea/
+./idea
+/.idea
+.idea
+/out
+run/
+
+
+# vscode
+.vscode/
+.vscode
+
+# Log file
+*.log
+logs/
+log/
